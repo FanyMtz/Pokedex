@@ -1,0 +1,1 @@
+Diseño creado por medio de .css del Pokedex
